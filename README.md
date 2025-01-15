@@ -16,9 +16,9 @@ pip install geopandas seaborn folium
 
 ## Estructura del Proyecto
 
-- `data-explorer`: contiene el código de la aplicación web para explorar las parcelas de cultivo.
 - `analisis-cultivos.py`: notebook con el tratamiento y análisis de los datos.
 - `dat/`: contiene los archivos de datos de superficies de cultivo para cada isla.
+- `data-explorer`: contiene el código de la aplicación web para explorar las parcelas de cultivo.
 
 ## Datos
 
