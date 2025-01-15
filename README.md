@@ -22,8 +22,7 @@ pip install geopandas seaborn folium
 
 ## Datos
 
-Los datos sobre las superficies de cultivo en Canarias se pueden obtener de la página web de agricultura del Gobierno de Canarias:  
-[Mapa de Cultivos de Canarias](https://www.gobiernodecanarias.org/agricultura/temas/mapa_cultivos/)  
+Los datos sobre las superficies de cultivo en Canarias se pueden obtener de la página web de agricultura del Gobierno de Canarias: [Mapa de Cultivos de Canarias](https://www.gobiernodecanarias.org/agricultura/temas/mapa_cultivos/)  
 
 Guarda los archivos descargados en la carpeta `dat/` de cada isla con el nombre mostrado en el notebook. También puedes descargarlo desde este enlace: (Google Drive)[https://drive.google.com/drive/folders/1t1uxBBjod_fveoJrffSo4lfWSZMxcU4_?usp=sharing]
 
