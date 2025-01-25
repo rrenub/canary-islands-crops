@@ -13,7 +13,7 @@ pip install geopandas seaborn folium
 ```
 
 > [!IMPORTANT]
-> Para poder ejecutar el notebook correctamente, es necesario descargar los datos desde (enlace)[https://drive.google.com/drive/folders/1t1uxBBjod_fveoJrffSo4lfWSZMxcU4_?usp=sharing] y colocarlos en una carpeta /dat. Puedes descargar los datos de la web del Gobierno de Canarias (ver apartado **Datos**)
+> Para poder ejecutar el notebook correctamente, es necesario descargar los datos desde [enlace](https://drive.google.com/drive/folders/1t1uxBBjod_fveoJrffSo4lfWSZMxcU4_?usp=sharing) y colocarlos en una carpeta /dat. Puedes descargar los datos de la web del Gobierno de Canarias (ver apartado **Datos**)
 
 ## Estructura del Proyecto
 
@@ -25,7 +25,7 @@ pip install geopandas seaborn folium
 
 Los datos sobre las superficies de cultivo en Canarias se pueden obtener de la página web de agricultura del Gobierno de Canarias: [Mapa de Cultivos de Canarias](https://www.gobiernodecanarias.org/agricultura/temas/mapa_cultivos/)  
 
-Guarda los archivos descargados en la carpeta `dat/` de cada isla con el nombre mostrado en el notebook. También puedes descargarlo desde este enlace: (Google Drive)[https://drive.google.com/drive/folders/1t1uxBBjod_fveoJrffSo4lfWSZMxcU4_?usp=sharing]
+Guarda los archivos descargados en la carpeta `dat/` de cada isla con el nombre mostrado en el notebook. También puedes descargarlo desde este enlace: [Google Drive](https://drive.google.com/drive/folders/1t1uxBBjod_fveoJrffSo4lfWSZMxcU4_?usp=sharing)
 
 ## Explorador de datos (web)
 
