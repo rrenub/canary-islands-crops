@@ -9,17 +9,11 @@ Para ello, se ha realizado un tratamiento y análisis previo de los datos, sacan
 Asegúrate de tener instalado Python 3.7 o superior. Luego, instala las dependencias necesarias con el siguiente comando:
 
 ```bash
-pip install geopandas seaborn folium
+uv run -- marimo run notebooks/analisis-cultivos-notebook.py
 ```
 
 > [!IMPORTANT]
 > Para poder ejecutar el notebook correctamente, es necesario descargar los datos desde [enlace](https://drive.google.com/drive/folders/1t1uxBBjod_fveoJrffSo4lfWSZMxcU4_?usp=sharing) y colocarlos en una carpeta /dat. Puedes descargar los datos de la web del Gobierno de Canarias (ver apartado **Datos**)
-
-## Estructura del Proyecto
-
-- `analisis-cultivos.py`: notebook con el tratamiento y análisis de los datos.
-- `dat/`: contiene los archivos de datos de superficies de cultivo para cada isla.
-- `data-explorer`: contiene el código de la aplicación web para explorar las parcelas de cultivo.
 
 ## Datos
 
